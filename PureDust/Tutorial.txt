@@ -1,4 +1,4 @@
-LunarHub V0.1.
+PureDust V0.1.
 Written by Jordan Janke
 
 Tutorial:
