@@ -1,0 +1,16 @@
+LunarHub V0.1.
+Written by Jordan Janke
+
+Tutorial:
+As of Version 0.1, There are two main commands, but to run both, open CMD in the root file. The first one is LunarCMD.run. This is used to run .py files (and .py files only i presume) inside the Scripts folder. You could sorta call it a python compiler since its just pure python that it runs in a exe, or like space war (pirate as much as you like in this(I am not responsible though)).
+The second is the most interesting. Connect. Connect connects you to a server running on a different computer. just type Connect {IPv4 address here}
+WARNING:
+I have only tested Connect with myself. On one computer. So it might need port forwarding in which you might need to mod the server code.
+WARNING II:
+You can mod the source code of everything as much as you want. Just know you will need to compile the EXEs again after. (they work independently so if you mod just one script, you only need to recompile that one script.)
+WARNING III:
+This is a prototype test, it probably has bugs, and is not meant to actually be useful, yet. My idea is for a workspace management platform. I'm pretty far away from that however.
+
+Have Fun!
+
+-Jordan
